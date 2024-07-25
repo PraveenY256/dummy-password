@@ -89,6 +89,7 @@ struct AddAccountDetailVew: View {
                      Text(error)
                  }
              } 
+        
         }
         .background(Color.newHomeBackground)
     }
